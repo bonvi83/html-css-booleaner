@@ -1,9 +1,15 @@
 header {
-    background-color: blue;
+    background-color: rgb(66, 66, 246);
     background-image: url(../img/pattern.png);
 }
 
+figure {
+    margin: 0;
+}
 
+/* ul {
+    padding: 0;
+} */
 
 .intestazione-tab {
     background-color: blueviolet;
