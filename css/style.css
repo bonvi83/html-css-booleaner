@@ -18,3 +18,21 @@ figure {
 .azzurrino {
     background-color: aquamarine;
 }
+
+h5 {
+    color: grey;
+}
+
+#img-viola {
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 208px;
+    color: white;
+}
+
+#img-nera {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 207px;
+    color: white;
+}
