@@ -1,6 +1,9 @@
-.pattern {
+header {
     background-color: blue;
+    background-image: url(../img/pattern.png);
 }
+
+
 
 .intestazione-tab {
     background-color: blueviolet;
