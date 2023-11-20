@@ -19,12 +19,23 @@ main, footer {
     margin: 10px;
 }
 
+h1 {
+    margin: 0;
+    margin-top: 10px;
+}
+
+#linkboolean {
+    color: aqua;
+	text-decoration: none; 
+}
+
 figure {
     margin: 0;
+    margin-top: 20px;
 }
 
 /* rappresentano le due righe di discalia */
-.didascalia {
+.didascalia, .zero-spazio {
     margin: 0;
 }
 
