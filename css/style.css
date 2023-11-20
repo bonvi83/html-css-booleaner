@@ -1,15 +1,33 @@
+body {
+    margin: 0;
+}
+
 header {
     background-color: rgb(66, 66, 246);
     background-image: url(../img/pattern.png);
+    height: 150px;
+}
+
+.logo {
+    height: 40px;
+}
+
+main {
+    margin: 10px;
 }
 
 figure {
     margin: 0;
 }
 
-/* ul {
-    padding: 0;
-} */
+/* rappresentano le due righe di discalia */
+.didascalia {
+    margin: 0;
+}
+
+.lista {
+    padding-inline-start: 20px;
+}
 
 .intestazione-tab {
     background-color: blueviolet;
