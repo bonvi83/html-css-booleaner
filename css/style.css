@@ -2,6 +2,7 @@ body {
     margin: 0;
 }
 
+/* la ripetizione immagine non mi convince, ma non so come poterla sistemare */
 header {
     background-color: rgb(66, 66, 246);
     background-image: url(../img/pattern.png);
@@ -10,9 +11,10 @@ header {
 
 .logo {
     height: 40px;
+    margin-top: 100px;
 }
 
-main {
+main, footer {
     margin: 10px;
 }
 
@@ -40,6 +42,7 @@ figure {
 
 h5 {
     color: grey;
+    margin-bottom: 5px;
 }
 
 #img-viola {
